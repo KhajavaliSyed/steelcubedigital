@@ -4,9 +4,9 @@ import { TypeAnimation } from 'react-type-animation';
 
 
 const hero_content = {
-    top_title: "Digitalize Your Product",
-    title: "Every Size & Life or ",
-    sub_title: <>From automation of people process to creating an engaged & driven culture to build better for everyone.</>,
+    top_title: "Strategic Solutions for Digital Success",
+    title: "Empowering Your ",
+    sub_title: <>Trust us to be your digital growth partner and unlock the full potential of your brand in the digital landscape.</>,
     total_review: "1500",
     hero_img: "/assets/img/hero/hero-1.png",
     hero_pie_img : "/assets/img/hero/hero-pie-chart.png",
@@ -71,7 +71,8 @@ const HeroBusiness = () => {
                             2000,
                             'Branding', 
                             3000,
-                            'Business', 
+                            'Success', 
+                            2000
                           ]}
                           wrapper="div"
                           cursor={false}

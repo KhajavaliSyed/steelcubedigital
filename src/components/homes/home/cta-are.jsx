@@ -28,7 +28,7 @@ const CtaArea = () => {
                             1000,
                             'Branding', 
                             3000,
-                            'Markting',
+                            'Marketing',
                             2000 
                           ]}
                           wrapper="div"
