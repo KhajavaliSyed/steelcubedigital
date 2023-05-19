@@ -95,7 +95,7 @@ const HeroBusiness = () => {
                   >
                     <div className="bs-hero__subscribe-input p-relative">
                       <i className="fas fa-envelope-open"></i>
-                      <input type="email" placeholder="Email address..." />
+                      <input type="email"  name="email" id ="email" required placeholder="Enter your mail" onChange={e => setEmail(e.target.value)}/>
                     </div>
                     <button
                       className="hero-submit-btn tp-btn-hover alt-color"

@@ -3,7 +3,7 @@ import React from "react";
 
 // about_content data 
 const about_content = {
-  sub_title: "Empowering Businesses with Creative Solutions",
+  sub_title: "Revolutionizing Businesses Through Innovative Solutions",
   title: "To Make Your Digital Experience Brighter.",
   des: (
     <>

@@ -7,7 +7,8 @@ const SEO = ({ pageTitle }) => (
         {pageTitle && `${pageTitle}`}
       </title>
       <meta httpEquiv="x-ua-compatible" content="ie=edge" />
-      <meta name="description" content="SteelCube is the leading structural steel detailing and design firm that offers a comprehensive range of services for both domestic and international customers." />
+      <meta name="description" content="At Steelcube Digital, we are dedicated to illuminating your 
+      digital journey with innovative strategies, compelling creativity, and measurable results." />
       <meta name="robots" content="index, follow" />
       <meta
         name="viewport"

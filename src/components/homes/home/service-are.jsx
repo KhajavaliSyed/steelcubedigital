@@ -77,7 +77,7 @@ const service_data = [
 
 const service_content = {
     name: "Services",
-    title: <> Empowering Your Digital Success </>
+    title: <> Unlocking Digital Potential for Businesses </>
 }
 
 const {name, title}  = service_content
